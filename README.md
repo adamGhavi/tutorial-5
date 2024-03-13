@@ -1,5 +1,5 @@
 ## Preface
-For this tutorial, I implemented a character using the Soldier spritesheet and gave it basic platformer controls.
+For the most part, I've only lightly expanded on my Tutorial 3 submission, as it already contains most of the required features (animations & sfx). But to reiterate, the features I've implemented are as follows:
 
 ## Added mechanics:
 ### 1. Double-Jump
