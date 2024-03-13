@@ -12,7 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.1
       - uses: Scony/godot-gdscript-toolkit@4.2.2
-        with:
-          version: 3.5.0
       - run: gdformat --check scenes/
       - run: gdlint scenes/
